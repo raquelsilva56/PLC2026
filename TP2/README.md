@@ -24,16 +24,10 @@ O conversor suporta os seguintes elementos da sintaxe básica de Markdown:
 
 ## Resolução
 
-A resolução encontra-se no ficheiro `markdown_to_html.py`.
+## Resolução
+
+[Ver resolução](./markdown_to_html.py)
 
 A implementação utiliza expressões regulares para identificar e converter os diferentes elementos de Markdown para HTML.
-
-## Execução
-
-Para executar o programa:
-
-```bash
-python markdown.py
-```
 
 Os testes encontram-se no final do ficheiro Python.
