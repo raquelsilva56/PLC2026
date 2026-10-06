@@ -24,8 +24,6 @@ O conversor suporta os seguintes elementos da sintaxe básica de Markdown:
 
 ## Resolução
 
-## Resolução
-
 [Ver resolução](./markdown_to_html.py)
 
 A implementação utiliza expressões regulares para identificar e converter os diferentes elementos de Markdown para HTML.
